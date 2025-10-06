@@ -2,6 +2,53 @@
 
 This repository is a blueprint for that reality. It's not about a single, monolithic AI, it's about creating a full roster of specialized AI agents that can work together to operate a project, a department, or even an entire business.
 
+<pre>
+.
+└── claude
+    └── agents
+        ├── design
+        │   ├── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/design/brand-guardian.md">brand-guardian.md</a>
+        │   ├── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/design/ui-designer.md">ui-designer.md</a>
+        │   ├── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/design/ux-researcher.md">ux-researcher.md</a>
+        │   ├── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/design/visual-storyteller.md">visual-storyteller.md</a>
+        │   └── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/design/whimsy-injector.md">whimsy-injector.md</a>
+        ├── engineering
+        │   ├── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/engineering/ai-engineer.md">ai-engineer.md</a>
+        │   ├── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/engineering/backend-architect.md">backend-architect.md</a>
+        │   ├── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/engineering/devops-automator.md">devops-automator.md</a>
+        │   ├── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/engineering/frontend-developer.md">frontend-developer.md</a>
+        │   ├── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/engineering/mobile-app-builder.md">mobile-app-builder.md</a>
+        │   └── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/engineering/rapid-prototyper.md">rapid-prototyper.md</a>
+        ├── marketing
+        │   ├── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/marketing/app-store-optimizer.md">app-store-optimizer.md</a>
+        │   ├── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/marketing/content-creator.md">content-creator.md</a>
+        │   ├── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/marketing/growth-hacker.md">growth-hacker.md</a>
+        │   ├── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/marketing/instagram-curator.md">instagram-curator.md</a>
+        │   ├── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/marketing/reddit-community-builder.md">reddit-community-builder.md</a>
+        │   ├── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/marketing/tiktok-strategist.md">tiktok-strategist.md</a>
+        │   └── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/marketing/twitter-engager.md">twitter-engager.md</a>
+        ├── product
+        │   ├── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/product/feedback-synthesizer.md">feedback-synthesizer.md</a>
+        │   ├── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/product/sprint-prioritizer.md">sprint-prioritizer.md</a>
+        │   └── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/product/trend-researcher.md">trend-researcher.md</a>
+        ├── project-management
+        │   ├── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/project-management/experiment-tracker.md">experiment-tracker.md</a>
+        │   ├── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/project-management/project-shipper.md">project-shipper.md</a>
+        │   └── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/project-management/studio-producer.md">studio-producer.md</a>
+        ├── studio-operations
+        │   ├── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/studio-operations/analytics-reporter.md">analytics-reporter.md</a>
+        │   ├── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/studio-operations/finance-tracker.md">finance-tracker.md</a>
+        │   ├── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/studio-operations/infrastructure-maintainer.md">infrastructure-maintainer.md</a>
+        │   ├── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/studio-operations/legal-compliance-checker.md">legal-compliance-checker.md</a>
+        │   └── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/studio-operations/support-responder.md">support-responder.md</a>
+        └── testing
+            ├── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/testing/api-tester.md">api-tester.md</a>
+            ├── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/testing/performance-benchmarker.md">performance-benchmarker.md</a>
+            ├── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/testing/test-results-analyzer.md">test-results-analyzer.md</a>
+            ├── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/testing/tool-evaluator.md">tool-evaluator.md</a>
+            └── <a href="https://github.com/aaurelions/my-team/blob/main/claude/agents/testing/workflow-optimizer.md">workflow-optimizer.md</a>
+</pre>
+
 ## What Are Agents?
 
 In this context, an agent is a specialized AI persona with a dedicated system prompt and a defined set of responsibilities. By breaking down a large, complex task (like building a software product) into smaller, specialized roles, we can delegate work to different agents.
